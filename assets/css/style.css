@@ -1,0 +1,62 @@
+.namebox {
+	font-size: 120;
+	text-align: center;
+	padding-top: 25px;
+	color: white;
+	background-color: #51A9A4;
+	height: 100px;
+	width: 300px;
+	border: solid;
+	float: left;
+}
+
+.aboutPortfolioContact {
+	font-size: 40;
+	color: #6F747D;
+	border: solid;
+	padding-top: 25px;
+	float: right;
+}
+
+.mainContentBlock {
+	width: 960px;
+	background-color: #E5E5E5;
+	border: solid;
+	padding-top: 25px;
+}
+
+
+.aboutMeBlock {
+	float: left;
+	width: 650px;
+	border: solid;
+	padding-top: 25px;
+}
+
+.contactMeBlock {
+	float: left;
+	width: 270px;
+	border: solid;
+	padding-top: 25px;
+}
+
+.copyrightBlock {
+	float: right;
+	border: solid;
+	padding-top: 25px;
+}
+
+.bluetext {
+	color: #51A9A4;
+}
+
+.connectWithMe {
+	text-align: center;
+	font-size: 120;
+}
+
+.biopic {
+	float: left;
+	padding-right: 30px;
+}
+
