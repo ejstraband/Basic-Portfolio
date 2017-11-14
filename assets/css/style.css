@@ -15,7 +15,7 @@
 	color: #6F747D;
 	border: solid;
 	padding-top: 25px;
-	float: right;
+	float: left;
 }
 
 .mainContentBlock {
@@ -33,7 +33,7 @@
 	padding-top: 25px;
 }
 
-.contactMeBlock {
+.connectWithMeBlock {
 	float: left;
 	width: 270px;
 	border: solid;
