@@ -47,6 +47,9 @@ li {
 	border-color: blue;*/
 	margin: 0px;
 	background-color: #E9E9E9;
+	border-top: solid;
+	border-width: 4px;
+	border-color: #C7C7C7;
 }
 article {
 	width: 960px;
@@ -89,6 +92,16 @@ footer {
 	border-top: solid;
 	border-color: #51A9A4;
 	border-width: 10px;
+}
+
+.submitButton {
+	background-color: #51A9A4;
+	width: 100px;
+	height: 30px;
+	text-align: center;
+	color: white;
+	padding-top: 8px;
+	padding-bottom: : 5px;
 }
 
 /*
