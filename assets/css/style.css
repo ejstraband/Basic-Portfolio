@@ -1,7 +1,95 @@
-li {
-	display: inline;
+body {
+
 }
 
+.banner {
+	margin: 0;
+	padding: 0;
+	/*border: solid;*/
+}
+
+.yourname {
+	font-size: 30px;
+	text-align: center;
+	padding-top: 25px;
+	margin-top: 0;
+	margin-bottom: 0;
+	color: white;
+	background-color: #51A9A4;
+	height: 70px;
+	width: 300px;
+	border: solid;
+	float: left;
+	border: solid;
+}
+
+.aboutportfoliocontactblock {
+	float: right;
+	padding-top: 5px;
+	margin-top: 20px;
+	padding-right: 20px;
+	margin-right: 10px;
+   	/*border: solid;*/
+}
+
+li {
+   	display: inline;
+}
+
+.flathr{
+	padding: 0;
+	margin: 0;
+}
+
+.mainPageContent {
+	/*width: 960px;*/
+/*	border: solid;
+	border-color: blue;*/
+	margin: 0px;
+	background-color: #E9E9E9;
+}
+article {
+	width: 960px;
+/*	border: solid;
+	border-color: yellow;*/
+	float: left;
+	padding: 10px;
+	margin: 20px;
+	width: 60%;
+	background-color: white;
+}
+
+.biopic {
+	float: left;
+	padding: 5px;
+
+}
+
+.bluetext {
+	color: #51A9A4;
+	font-size: 30px;
+}
+
+aside {
+	width: 270px;
+	float: right;
+/*	border: solid;
+	border-color: red*/
+	background-color: white;
+	margin: 20px;
+	padding: 20px;
+}
+
+footer {
+	text-align: center;
+	background-color: #5B5B5B;
+	color: white;
+	padding-top: 10px;
+	padding-bottom: 10px;
+	border-top: solid;
+	border-color: #51A9A4;
+	border-width: 10px;
+}
 
 /*
 Swing One
