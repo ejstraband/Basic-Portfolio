@@ -1,6 +1,6 @@
-
-
-
+li {
+	display: inline;
+}
 
 
 /*
@@ -66,5 +66,4 @@ Swing One
 	float: left;
 	padding-right: 30px;
 }
-
 */
